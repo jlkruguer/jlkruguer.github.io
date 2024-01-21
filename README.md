@@ -8,7 +8,7 @@ I'm passionate about applying analytical methods and machine learning to develop
 More stuff about me: I have a degree in Applied Mathematics from Harvard. I'm from Maine. I love spending my time outdoors across New England with my wife, dog, and friends.
 
 Selected Projects
-- [Data Sensorium](https://mlml.io/p/data-sensorium/))
+- [Data Sensorium](https://mlml.io/p/data-sensorium/)
 - [Curatorial A(i)gents](https://mlml.io/p/curatorial-aigents/)
 - [Choreographic Interfaces](https://mlml.io/p/choreographic-interface/)
 
