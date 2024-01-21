@@ -8,9 +8,9 @@ I'm passionate about applying analytical methods and machine learning to develop
 More stuff about me: I have a degree in Applied Mathematics from Harvard. I'm from Maine. I love spending my time outdoors across New England with my wife, dog, and friends.
 
 Selected Projects
-- [Data Sensorium]([https://www.linsderry.com/data-sensorium](https://mlml.io/p/data-sensorium/))
+- [Data Sensorium](https://mlml.io/p/data-sensorium/))
 - [Curatorial A(i)gents](https://mlml.io/p/curatorial-aigents/)
-- [Choreographic Interfaces]([https://www.linsderry.com/research-choreographic-interfaces-1](https://mlml.io/p/choreographic-interface/))
+- [Choreographic Interfaces](https://mlml.io/p/choreographic-interface/)
 
 Selected Publications
 - Kruguer, J. (2021): [Creation of a Geospatially Explicit Framework for Evaluating the Impact of Urban Form on the Growth and Performance of Cities: Theory and Evidence from Material Infrastructure and Resource Consumption in US Cities](https://drive.google.com/file/d/19nrUKvQ1nhA3ycICMgOmwK_KMbEkzURj/view?usp=sharing), - Kruguer, J (2021).
