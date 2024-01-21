@@ -1,4 +1,4 @@
-Hello! I'm Jordan. I'm a data scientist and researcher.
+Hello! I'm Jordan. I'm a data scientist and researcher with 3+ years of experience at at early and growth stage startups.
 
 I currently work at [Kairos Aerospace](https://kairosaerospace.com/) where we are working to reduce GHG emissions by finding the largest methane emission sources quickly and efficiently.
 
