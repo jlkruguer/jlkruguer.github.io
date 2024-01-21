@@ -13,11 +13,11 @@ Selected Projects
 - [Data Sensorium](https://www.linsderry.com/data-sensorium)
 - [Curatorial A(i)gents & Choreographic Interfaces](https://www.linsderry.com/research-choreographic-interfaces-1)
 
-Publications
+Selected Publications
 - Burke, J., Gras Alomà, R., Yu, F., and Kruguer, J. (2021): Multiplying effects of urban innovation districts. Geospatial analysis framework for evaluating innovation performance within urban environments, in Advances in Science, Technology and Innovation (Springer, 2021).	
 - Kruguer, J. (2021): Creation of a Geospatially Explicit Framework for Evaluating the Impact of Urban Form on the Growth and Performance of Cities: Theory and Evidence from Material Infrastructure and Resource Consumption in US Cities, unpublished manuscript/senior thesis.
 - Burke, J., Gras Alomà, R., Yu, F., and Kruguer, J. (2021): Geospatial analysis framework for evaluating urban design typologies in relation with the 15-minute city, Journal of Business Research, 2021). 
 
-Presentations
-- “Surprise Machines,” Lightning Talk and Panel, Information+ Conference, Remote, October 2021. Derry, L., Rodighiero, D., Kruguer, J., Duhaime, D., Schnapp, J., Pietsch, C. 
+Selected Presentations
+- [“Surprise Machines”](https://metalabharvard.github.io/projects/curatorial-aigents/surprisemachines/) Lightning Talk and Panel, Information+ Conference, Remote, October 2021. Derry, L., Rodighiero, D., Kruguer, J., Duhaime, D., Schnapp, J., Pietsch, C. 
 
