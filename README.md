@@ -11,6 +11,7 @@ Selected Projects
 - [Data Sensorium](https://mlml.io/p/data-sensorium/)
 - [Curatorial A(i)gents](https://mlml.io/p/curatorial-aigents/)
 - [Choreographic Interfaces](https://mlml.io/p/choreographic-interface/)
+- [2021 Fisher Prize Award Winning Translation of my Undergraduate Thesis](https://storymaps.arcgis.com/stories/d322f12b534c4b3395be6c4fdc31ec4f)
 
 Selected Publications
 - [Creation of a Geospatially Explicit Framework for Evaluating the Impact of Urban Form on the Growth and Performance of Cities: Theory and Evidence from Material Infrastructure and Resource Consumption in US Cities](https://drive.google.com/file/d/19nrUKvQ1nhA3ycICMgOmwK_KMbEkzURj/view?usp=sharing), - **Kruguer, J.** (2021).
