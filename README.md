@@ -1,4 +1,4 @@
-Hello! I'm Jordan. I'm a data scientist/ML Engineer and researcher with 4+ years of experience at early and growth stage startups.
+Hello! I'm Jordan. I'm a Data Scientist & ML Engineer with 4+ years of experience at early and growth stage startups.
 
 I currently work as an ML Engineer at [Orbital Sidekick](https://www.orbitalsidekick.com/) where we are developing machine learning models on hypserspectral data, delivering spectral intelligence for problems in methane emissions, mining exploration, wild fire mitigation, and much more. My work focuses on taking methods from research in remote sensing, adapting and improving them for use with data from our unique hyperspectral constellation, and creating robust and performant end-to-end machine learning pipelines to deliver automated intelligence to our customers. 
 
