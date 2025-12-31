@@ -1,4 +1,4 @@
-Hello! I'm Jordan. I'm a Data Scientist & ML Engineer with 4+ years of experience at early and growth stage startups.
+Hello! I'm Jordan. I'm a Data Scientist & ML Engineer with 5+ years of experience at early and growth stage startups.
 
 I currently work as the Director of Machine Learning at [Blue Voice](https://bluevoice.io/) where we are building closed loop AI tools for first responders. 
 
